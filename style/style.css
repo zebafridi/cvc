@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(216, 216, 216);
+}
+nav{
+    background-color: white;
+    background-size: border-box;
+}
+.logo{
+    margin-top: 20px;
+    padding: 0px 50px;
+}
+
+button
+{
+    
+    margin-top: 25px;
+    margin-left: 440px;
+    padding: 8px 25px;
+    border-radius: 10px;
+}
+h4{
+    margin: 40px 170px;
+}
+table{
+    margin-left: 50px;
+}
+
+table tr th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 3px;
+    
+}
+span{
+ padding: 0 20px;
+}
+table tr td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 10px;
+ }
+ .footer{
+    background-color: white;
+    margin-top: 70px;
+    text-align: center;
+    padding: 4px 0px 1px 0px;
+
+ }

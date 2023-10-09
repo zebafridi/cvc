@@ -1,0 +1,54 @@
+*
+
+body{
+    background-color: rgb(12, 12, 12);
+}
+nav{
+    background-color: rgb(31, 30, 30);
+    background-size: border-box;
+}
+.logo{
+    margin-top: 20px;
+    padding: 0px 50px;
+}
+
+button
+{
+    color: black;
+    margin-top: 25px;
+    margin-left: 440px;
+    padding: 8px 25px;
+    border-radius: 10px;
+}
+h4{
+    margin: 40px 170px;
+    color: white;
+}
+table{
+    margin-left: 50px;
+}
+
+table tr th{
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    padding: 2px 3px;
+    
+}
+span{
+ padding: 0 20px;
+}
+table tr td{
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+    padding: 5px 10px;
+ }
+ .footer{
+    color: white;
+    background-color:  rgb(31, 30, 30);
+    margin-top: 70px;
+    text-align: center;
+    padding: 4px 0px 1px 0px;
+
+ }
